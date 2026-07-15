@@ -1,0 +1,99 @@
+---
+title: "Benthic Ecology"
+page-layout: full
+toc: true
+---
+
+# 
+
+<!-- ![](images/benthic_banner.jpg){width=100%} -->
+
+---
+
+# Overview
+
+During my Master's research, I investigated the ecology of Arctic deep-sea benthic ecosystems, focusing on methane cold seeps along the Norwegian continental margin and the Barents Sea. My work combined remotely operated vehicle (ROV) surveys, GIS-based image analyses, sediment geochemistry and benthic ecology to understand how hydrocarbon seepage shapes biodiversity and ecosystem functioning in polar marine environments.
+
+This research resulted in two peer-reviewed publications and laid the foundation for my later work in Arctic microbial ecology.
+
+
+---
+
+# Publications
+
+## Paper 1 — Published
+
+### [Sen *et al.* (2019)](https://doi.org/10.1038/s41598-018-38070-9)
+
+### Research summary
+
+This study characterized a newly discovered Arctic methane cold seep using ROV imagery, GIS mapping, sediment geochemistry and benthic community analyses.
+
+### Key findings
+
+- Characterized a previously unknown Arctic methane cold seep ecosystem.
+- Recorded the first evidence of frenulate siboglinid worms colonizing hard carbonate substrates.
+- Identified the seep as a probable nursery ground for Arctic skate egg cases.
+- Demonstrated how sulphide-rich seep environments structure Arctic benthic communities.
+
+
+---
+
+## Paper 2 — Published
+
+### [Sen *et al.* (2019)](https://doi.org/10.7717/peerj.7398)
+
+### Research summary
+
+This study compared benthic communities at an Arctic methane seep with the surrounding background seafloor using high-resolution image mosaics.
+
+### Key findings
+
+- Weak hydrocarbon seepage significantly increased megabenthic diversity and abundance.
+- Carbonate crusts acted as biodiversity hotspots by providing habitat for benthic organisms.
+- Ecological effects of seep habitats persist even after seep activity declines.
+- The findings have important implications for Arctic marine conservation and offshore resource management.
+
+
+---
+
+
+# Gallery
+
+:::: {.columns}
+
+::: {.column}
+
+![](images/field8.jpg){.benthic-photo}
+
+:::
+
+::: {.column}
+
+![](images/field9.jpg){.benthic-photo}
+
+:::
+
+::::
+
+<br>
+
+<div class="benthic-single">
+
+::: {.benthic-card}
+
+![](images/field10.jpg){.benthic-photo}
+
+:::
+
+</div>
+
+---
+
+# Keywords
+
+- Deep-sea ecology
+- Cold seeps
+- ArcGIS - Spatial mapping
+- ROV surveys
+- Sediment geochemistry

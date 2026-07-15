@@ -1,0 +1,90 @@
+---
+title: "Research"
+page-layout: full
+toc: false
+---
+
+# 
+
+My research spans microbial ecology across extreme environments, combining molecular biology, environmental DNA, bioinformatics and ecological theory to understand how microbial communities respond to environmental change.
+
+---
+
+:::: {.columns}
+
+::: {.column}
+
+## ❄ Arctic Marine Ecology
+
+Understanding how microbial communities respond to seasonality and environmental change across Arctic fjords using long-term environmental DNA datasets.
+
+[Explore this project →](arctic.qmd)
+
+:::
+
+::: {.column}
+
+
+## ❄ Benthic Ecology
+
+Exploring deep-sea Arctic ecosystems and how methane cold seeps shape benthic biodiversity, habitat complexity and ecosystem functioning. 
+
+[Explore this project →](benthic.qmd)
+
+:::
+::::
+---
+
+:::: {.columns}
+
+::: {.column}
+
+
+## 🌱 Sustainable Agriculture
+
+Exploring beneficial microbial communities associated with crops and sustainable agriculture.
+
+[Explore this project →](plants.qmd)
+
+:::
+
+
+::: {.column}
+
+
+## 💻 Bioinformatics
+
+Reproducible analyses in R, Python and high-performance computing.
+
+[Explore this project →](bioinformatics.qmd)
+
+:::
+
+::::
+---
+
+:::: {.columns}
+
+::: {.column}
+
+
+## 🚀 Space Biology
+
+Plant microbiomes and microbial ecology for future lunar and Martian agriculture.
+
+[Explore this project →](space.qmd)
+
+:::
+
+::: {.column}
+
+
+## 🎓 Outreach
+
+Field teaching and science communication.
+
+[Explore this project →](outreach.qmd)
+
+:::
+
+::::

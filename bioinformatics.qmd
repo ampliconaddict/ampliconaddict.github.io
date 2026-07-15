@@ -1,0 +1,64 @@
+---
+title: "Bioinformatics"
+page-layout: full
+toc: true
+---
+
+#
+
+![](images/lab1.jpg){width=100%}
+
+---
+
+# Overview
+
+Throughout my research, bioinformatics has been an essential tool for analysing environmental sequencing data and investigating microbial communities. I have worked extensively with the DADA2 metabarcoding pipeline on high-performance computing (HPC) systems to process Illumina sequencing datasets and have gained experience analysing Oxford Nanopore sequencing data using a range of bioinformatics workflows. 
+
+---
+
+## What I am curious about
+
+- Can artificial intelligence help uncover ecological patterns and microbial interactions that remain hidden within complex environmental sequencing datasets?
+
+- Can advances in AI and bioinformatics accelerate the discovery of microbial functions that support resilient ecosystems?
+
+---
+
+# Research Areas
+
+My bioinformatics work spans multiple sequencing platforms and ecosystems, including Arctic marine microbial ecology, soil microbiomes (soon to be), cryopegs, pingos, permafrost and so on...
+
+Projects have included:
+
+- Environmental DNA metabarcoding
+- Oxford Nanopore sequencing
+- Illumina amplicon sequencing
+- Long-term microbial time series
+- Community ecology analyses
+
+---
+
+# Tools & Software
+
+### Programming
+
+- R (advanced)
+- Python (basics)
+- Bash (advanced)
+
+
+### Computing
+
+- High Performance Computing (HPC)
+- Linux
+- Slurm
+
+---
+
+# Skills
+
+- Reproducible workflows
+- Community ecology
+- High-performance computing
+- Data visualization
+- Environmental DNA

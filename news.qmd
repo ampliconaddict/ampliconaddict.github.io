@@ -1,0 +1,65 @@
+---
+title: "News"
+page-layout: full
+toc: false
+---
+
+# 
+
+Click on any story to learn more.
+
+---
+
+## 2026
+
+### 🧪 Started my Postdoctoral Journey
+
+**July 2026**
+
+I joined the **University of Mississippi** as a Postdoctoral Researcher to investigate microbe-mineral interactions and sustainable agriculture.
+
+➡️ [Read more →](news_postdoc.qmd)
+
+---
+
+## 2025
+
+### Did my first non-science job!
+
+**August 2025**
+
+I worked as a city guide for 2 touring companies!
+
+➡️ [Read more →](news_noscience.qmd)
+
+
+### 🎓 Successfully Defended my PhD
+
+**May 2025**
+
+Successfully defended my PhD in Arctic microbial ecology at the University Centre in Svalbard (UNIS) and the University of Agder (UiA).
+
+➡️ [Read more →](news_phd.qmd)
+
+
+---
+
+## 2024
+
+### 📄 First-author Paper Published
+
+Published my first first-author paper in **Progress in Oceanography**. YAY!
+
+➡️ [Read more →](arctic.qmd)
+
+---
+
+## 2022
+
+### 📺 Featured in Euronews
+
+Featured in an international documentary highlighting Arctic research and climate change in Svalbard.
+
+➡️ [Read more →](featured.qmd)
+
+---

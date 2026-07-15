@@ -1,0 +1,129 @@
+---
+title: "Science Through Poetry"
+page-layout: article
+toc: false
+---
+
+The ISA Time Series: A Musical
+
+*Written during my PhD in Svalbard as part of a science outreach event for the Longyearbyen community.*
+
+<pre class="poem">
+
+Once upon a time, in a land far, far away,  
+In a place we all call India,  
+lived a little girl that went by the name Cheshtaa.
+
+She lived in a city of twelve million,  
+all having the same vision.
+
+When all her friends wanted to become  
+doctors, engineers or lawyers,  
+little Cheshtaa did not care about the dollars.
+
+She wanted to study life  
+in extreme habitats...  
+or on another planet.
+
+But there was no such study  
+like that in India.
+
+Damn it!
+
+As you can see,  
+she was exposed to marine biology.
+
+No... she wasn't scared of boats  
+or seasick—  
+don't go by the chronology.
+
+Despite her fears and her very sad survival skills,  
+she moved to another continent, with only seven suitcases.
+
+Maybe that was an overkill?!
+
+She travelled through several countries  
+on a student visa,  
+discovering new places, new cultures,  
+and many eateries.
+
+She the travelled to several countries
+on a student visa with multipe enteries, 
+She was in places where they didnt speak what she spoke,
+but nonehtless saw reindeers, yetis and famous statues despite being broke.
+
+To find the answer to her questions,
+she studied
+studied  
+and ahem studied, 
+
+Until she GRADUATED!
+
+Confused about where life would take her next, 
+she decided to go for a PhD which could be complex..
+
+At the age of 24, she was going to explore,
+Organisms living in extreme habitats furthermore...
+
+To her surprise, she had to analyse,
+changes in PROTIST diversity, at the University!
+
+Why were these little ones changing in numbers you may ask,
+To find this out was infact her task!
+
+She read and read and read and found, 
+The Arctic was warming up Atlantic water all around
+
+Could this be the reason they change in number?
+From winter to winter and summer to summer?
+
+She set sail on her boats every month with Audun, and Charlie and Edmund...
+
+To collect and filter samples of water
+And to keep in her conscience copepod slaughter
+She also collected data for temperature from a CTD, 
+And that of light and salinity all from the sea..
+
+
+After filtering all the water for environmental DNA,
+she sent off her samples to a land far far away (Canada)
+
+In the meantime she got the opportunity to do other cool works,
+I guess studying at UNIS has its own perks!
+
+
+When she got the results what do you think she saw?
+What I am about to tell you will make you drop your jaw!
+
+It wasnt changing climate that was affecting these cuties,
+It was more light and seasons that was changing the species.
+
+If youre wondering, here is a figure of watermasses, 
+its not just about how hot or cold it is, there are many different classes,
+Dont you see the amount of warm Atlantic water we are getting through the years??
+There are no trends shown in my data and that brings me to tears...
+
+Do you see in 2014 the amount of red?? 
+How organisms dont get affected by this just doesnt get in my head!
+
+Everyone told her "Just write about seasonality.", 
+No result is also a result you see!
+She came up with the idea of only looking at data during the polar night, 
+Surely that is affected by warm Atlantic water if theres no light?
+
+BUT no again, cmon WHAT?!?
+How can it still be seasonal despite all that?!
+
+For 3 years she worked and worked and worked but did she find out??
+
+You would just have to stay tuned to clear your doubt!
+
+</pre>
+
+---
+
+<div style="text-align:center;">
+
+[← Back to Outreach](outreach.qmd){.hero-button}
+
+</div>

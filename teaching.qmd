@@ -1,0 +1,157 @@
+---
+title: ""
+page-layout: full
+toc: false
+
+---
+
+# Teaching & Mentorship
+
+During my PhD at the University Centre in Svalbard (UNIS), and following the completion of my doctorate, I contributed to teaching through lectures, laboratory practicals, field excursions and research supervision across undergraduate, Master's and PhD-level courses.
+
+---
+
+## Courses
+
+### AB-202 — Arctic Marine Biology (Bachelor)
+
+Contributed to laboratory practicals, field-based teaching and marine sampling exercises, introducing undergraduate students to Arctic marine ecosystems, biodiversity and ecological field methods. 
+
+:::: {.columns}
+
+::: {.column}
+![](images/course_2.jpg){.field-photo}
+
+*Fieldwork views from 80°N on the bachelor course aboard R/V Helmer Hansen.*
+:::
+
+::: {.column}
+![](images/field_students1.jpg){.field-photo}
+
+*Less than a week worth of packing for the student cruise!*
+:::
+
+::: {.column}
+![](images/course_22.jpg){.field-photo}
+*Our sampling site was right infront of this!*
+:::
+
+::: {.column}
+![](images/field_s2.jpg){.field-photo}
+*This device (CTD) measures Conductivity, Temperature and Density and a million other variables!*
+:::
+
+::::
+
+---
+
+### AB-332/832 — Arctic Marine Molecular Ecology (Master's & PhD)
+
+Contributed to lectures and practical teaching covering environmental DNA (eDNA), molecular ecology, metabarcoding, biodiversity assessment and bioinformatic approaches used to investigate Arctic marine ecosystems. 
+
+:::: {.columns}
+
+::: {.column}
+![](images/AB332.jpg){.field-photo}
+
+*Helping hands!*
+:::
+
+::: {.column}
+![](images/course_1.jpg){.field-photo}
+
+*What we sample for the course.*
+:::
+
+::: {.column}
+![](images/course_12.jpg){.field-photo}
+
+*My very first teacher cabin aboard R/V Polarsyssel.*
+:::
+
+::: {.column}
+![](images/ment2.jpg){.field-photo}
+
+*Students collecting environmental DNA samples.*
+:::
+
+::::
+
+<div class="benthic-card" style="max-width:650px; margin:40px auto;">
+
+<video class="course-video" autoplay muted loop playsinline>
+  <source src="images/course2_v.mp4" type="video/mp4">
+</video>
+
+<p style="text-align:center; margin-top:15px; margin-bottom:0;">
+<em>A little break to watch a pod of belugas swimming through the fjord!</em>
+</p>
+
+</div>
+
+
+---
+
+### AB-327/827 — Arctic Microbiology (Master's & PhD)
+
+Contributed to teaching in Arctic microbial ecology, laboratory methods, microbial biodiversity, Arctic biogeochemistry and modern molecular and bioinformatic techniques used to study microorganisms in polar environments.
+
+:::: {.columns}
+
+::: {.column}
+![](images/course_3.jpg){.field-photo}
+
+:::
+
+::: {.column}
+![](images/course_32.jpg){.field-photo}
+
+:::
+
+::::
+
+<div style="text-align:center; margin-top:-10px; margin-bottom:35px;">
+<em>Students really digging into the pingo to hear the methane bubbles.</em>
+</div>
+
+:::: {.columns}
+
+::: {.column}
+![](images/course_33.jpg){.field-photo}
+
+*Prepping to start spring fieldwork*
+:::
+
+::: {.column}
+![](images/course_34.jpg){.field-photo}
+
+*Cannot forget some marine fieldwork!*
+:::
+
+::::
+# Student Mentorship
+
+Alongside formal teaching, I have mentored and supervised undergraduate and Master's students, as well as bachelor interns, in all field- lab- and computer-based research.
+Working closely with students on an individual basis has been one of the most rewarding aspects of teaching. It has provided the opportunity to tailor guidance to each student's goals, help them develop practical research skills and build confidence as future scientists.
+
+This has included guidance in:
+
+- Arctic field sampling
+- Molecular laboratory techniques
+- DNA metabarcoding workflows
+- Data preparation and analysis
+
+::: {.columns}
+
+::: {.column}
+![](images/ment3.jpg){.field-photo-full}
+
+*Summer fieldwork!*
+:::
+
+::: {.column}
+![](images/ment4.jpg){.field-photo-full}
+
+:::
+
+::::

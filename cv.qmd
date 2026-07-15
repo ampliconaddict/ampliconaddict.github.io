@@ -1,0 +1,198 @@
+---
+title: "Curriculum Vitae"
+page-layout: full
+toc: true
+---
+
+# 
+
+I am a molecular ecologist with expertise in Arctic microbial ecology, environmental DNA, molecular biology and bioinformatics. My research combines long-term ecological monitoring, high-throughput sequencing and computational analyses to investigate microbial communities across Arctic and terrestrial ecosystems.
+
+---
+
+# Current Position
+
+### Postdoctoral Researcher
+**The University of Mississippi, USA**
+
+**July 2026 – Present**
+
+Current research focuses on microbe-mineral interactions, biofertilisers and sustainable agriculture, investigating how beneficial microbial communities influence crop productivity and resilience through field and greenhouse experiments.
+
+---
+
+# Education
+
+### PhD in Arctic Biology
+
+**University Centre in Svalbard (UNIS), Norway**
+
+Joint degree with the **University of Agder (UiA), Norway**
+
+2019–2025
+
+---
+
+### Erasmus Mundus MSc — Marine Environment and Resources (MER)
+
+- University of Bordeaux, France
+- University of the Basque Country, Spain
+- University of Liège, Belgium
+- University of Southampton, United Kingdom
+- University of Tromsø, Norway
+
+2016–2018
+
+---
+
+### BSc — Zoology, Microbiology and Chemistry
+
+St. Joseph's College (Autonomous), Bangalore, India
+
+2013–2016
+
+---
+
+# Professional Experience
+
+| Year | Position |
+|------|----------|
+| **2026–Present** | **Postdoctoral Researcher**, The University of Mississippi, USA |
+| Mar-May2026 | Teaching assistant, Arctic Microboiology (AB327/827), UNIS |
+| Mar-May2026 | Researcher, XTREAM (EU Horizon Project) |
+| Oct-Nov 2025 | Teaching Assistant – Arctic Marine Molecular Ecology (AB-332/832), UNIS |
+| Jun-Aug 2025 | Science Communicator, Polar Bears International |
+| 2019–2025 | Doctoral Researcher, UNIS |
+| 2018 | Research Assistant, CAGE, UiT – The Arctic University of Norway |
+
+---
+
+# Teaching & Student Mentorship
+
+During my PhD and beyond, I contributed to undergraduate, Master's and PhD teaching through lectures, laboratory practicals, field excursions and one-to-one student mentoring.
+
+I have mentored:
+
+- **2 Master's students**
+- **1 Bachelor's research intern**
+
+---
+
+# Leadership & Service
+
+### Head of the Temporary Academic Staff
+
+**University Centre in Svalbard (2022–2024)**
+
+Responsibilities included:
+
+- Representing temporary academic staff
+- Organising workshops
+- Participating in meetings on teaching and course organisation
+- Supporting new staff integration
+
+
+---
+
+# Scholarships
+
+- Erasmus Mundus MER Scholarship
+- Aquimob Mobility Scholarship
+- UPV/EHU Mobility Grant
+
+---
+
+# Research Outputs
+
+## Peer-reviewed Journal Articles
+
+1. **Chitkara, C.**, Juul-Pedersen, T., Krawczyk, D., Søreide, J. E., Vader, A., Gradinger, R., Winding, M. H. S., & Vonnahme, T. R. (2024).  
+   *Seasonality in phytoplankton communities and production in three Arctic fjords across a climate gradient.*  
+   **Progress in Oceanography**, 227, 103317.
+
+2. **Vonnahme, T. R., Chitkara, C.**, Krawczyk, D., Meire, L., Skogseth, R., Vader, A., & Juul-Pedersen, T. (2025).  
+   *Abrupt decline of microplankton species richness linked to coastal inflow in an Arctic fjord.*  
+   **Limnology and Oceanography**, 70, 2688–2702.
+
+3. **Sen, A.**, Himmler, T., Hong, W. L., *et al.* (2019).  
+   *Atypical biological features of a new cold seep site on the Lofoten–Vesterålen continental margin (northern Norway).*  
+   **Scientific Reports**, 9, 1762.
+
+4. **Sen, A., Chitkara, C.**, Hong, W., Lepland, A., Cochrane, S., di Primio, R., & Brunstad, H. (2019).  
+   *Image-based quantitative comparisons indicate heightened megabenthos diversity and abundance at a site of weak hydrocarbon seepage in the southwestern Barents Sea.*  
+   **PeerJ**, 7:e7398.
+
+---
+
+## Cruise Reports
+
+1. **Gerland, S., *et al.*** (2022).  
+   *Seasonal Cruise Q1 2021: Cruise Report.*  
+   **The Nansen Legacy Report Series**, 29/2022.
+
+2. **CAGE-18-3 Cruise to the Barents Sea, Storfjorden Trough, East Greenland Ridge (Legs 1–2), Arctic Ocean Vestnesa Ridge and PKF (Leg 3).** (2022).  
+   **CAGE – Centre for Arctic Gas Hydrate, Environment and Climate Report Series**, 6.
+
+---
+
+## Published Research Datasets
+
+1. **Vader, A., Chitkara, C., Ericson, Y., Marquardt, M., Gabrielsen, T. M., Thompson, S., Chierici, M., & Søreide, J. E.** (2024).  
+   *Nutrients from the marine ISA time series station in Svalbard.*
+
+2. **Chitkara, C., Gabrielsen, T. M., Marquardt, M., & Vader, A.** (2024).  
+   *Raw DNA sequences from a high-Arctic time series station in Isfjorden.*
+
+3. **Vader, A., Chitkara, C., Marquardt, M., Søreide, J., & Gabrielsen, T. M.** (2021).  
+   *ISA_Svalbard_Chlorophyll_A_2011–2019.*
+
+---
+
+## Manuscripts in press
+
+- **Seasonality of planktonic microbial eukaryotic communities in Arctic versus Atlantic Spitsbergen fjords.**
+
+---
+
+
+
+# Research Cruises
+
+- R/V Kronprins Haakon - The Nansen legacy seasonal cruise (Spring 2021)
+- R/V Polarsyssel - Monthly fieldwork (2019-2024)
+- R/V Helmer Hanssen - Student cruises (2019-2024)
+- UNIS Polaris - Monthly fieldwork (2019-2024)
+- Hurtigruten Expedition Cruises (Summer 2022)
+
+---
+
+# Outreach & Science Communication
+
+Highlights include:
+
+- Polar Bears International
+- Pint of Science
+- The Nansen Legacy
+- UNIS Open Day
+- Researcher's Night
+- Science communication for schools and the public
+
+More details are available on the **Outreach** (Research) and **Featured** pages.
+
+
+---
+
+# Professional Profiles
+
+<div style="display:flex; gap:20px; flex-wrap:wrap; margin-top:20px;">
+
+<a href="https://orcid.org/0009-0004-8429-2326" target="_blank" class="hero-button">
+🟢 ORCID
+</a>
+
+<a href="https://scholar.google.fr/citations?user=OoRG4bsAAAAJ&hl=en" target="_blank" class="hero-button">
+🎓 Google Scholar
+</a>
+
+</div>
+---

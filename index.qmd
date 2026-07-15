@@ -1,0 +1,188 @@
+---
+title: Home
+page-layout: full
+---
+
+::: {.hero}
+
+<div class="hero-content">
+
+# Cheshtaa Chitkara, PhD
+
+## Molecular Ecologist
+
+### Exploring life at the edge of habitability.
+
+<a href="#research" class="hero-button">Explore my research ↓</a>
+
+</div>
+
+:::
+
+::: {.section #research}
+
+::: {.section #research}
+
+# Research
+
+:::: {.columns}
+
+::: {.column}
+
+### ❄ Arctic Marine Ecology
+
+Long-term time series of microbial communities across Arctic fjords, exploring how light, hydrography and environmental change shape biodiversity.
+
+:::
+
+::: {.column}
+
+### 🌱 Sustainable Agriculture
+
+Understanding microbial communities that increase mineral breakdown from rock material improving crop growth and therefore sustainable agriculture.
+
+:::
+
+::: {.column}
+
+### 🚀 Space Biology
+
+A growing research interest at the intersection of microbial ecology and space exploration.
+
+:::
+
+::: {.column}
+
+### 💻 Bioinformatics
+
+R, Python, HPC, microbial ecology and reproducible science.
+
+:::
+
+::::
+
+<br>
+
+<div style="text-align:center;">
+
+<a href="research.html" class="hero-button">View all research →</a>
+
+</div>
+
+:::
+
+::: {.about}
+
+:::: {.columns}
+
+::: {.column width="55%"}
+
+# About
+
+I'm a molecular ecologist passionate about understanding how microbial communities shape ecosystems across extreme environments. My research combines environmental DNA, molecular ecology, bioinformatics and ecological statistics to study biodiversity—from Arctic fjords to the future of space biology.
+
+<a href="about.qmd" class="hero-button">Read more →</a>
+
+:::
+
+::: {.column width="45%"}
+
+![](images/hero1.jpg){width="100%"}
+
+:::
+
+::::
+
+:::
+
+::: {.section}
+
+::: {.section}
+
+# Featured
+
+:::: {.columns}
+
+::: {.column}
+
+### 📰 UNIS News
+
+Featured stories from Arctic fieldwork, expeditions and research at the University Centre in Svalbard.
+
+:::
+
+::: {.column}
+
+### 🌊 The Nansen Legacy
+
+Public outreach, science communication and Arctic microbial ecology.
+
+:::
+
+::: {.column}
+
+### 📺 Media
+
+Documentaries, interviews and public engagement showcasing Arctic science.
+
+:::
+
+::::
+
+<div style="text-align:center; margin-top:35px;">
+
+<a href="featured.qmd" class="hero-button">View all featured →</a>
+
+</div>
+
+:::
+
+::: {.section}
+
+# 
+
+<div class="news-card">
+
+<h2>📰 Latest News</h2>
+
+<div class="news-slider">
+
+<div class="news-slide">
+
+<h3>July 2026</h3>
+
+<p>
+
+<a href="news_postdoc.qmd">
+
+<strong>Started as Postdoctoral Researcher</strong>
+
+</a>
+
+<br>
+
+University of Mississippi
+
+</p>
+
+</div>
+
+<div class="news-slide">
+<h3>May 2025</h3>
+<p><strong>Successfully defended my PhD</strong></p>
+</div>
+
+<div class="news-slide">
+<h3>June 2025</h3>
+<p><strong>Paper published in <em>Limnology & Oceanography</em></strong></p>
+</div>
+
+</div>
+
+<p style="text-align:center; margin-top:25px;">
+<a href="news.qmd">View all news →</a>
+</p>
+
+</div>
+
+:::

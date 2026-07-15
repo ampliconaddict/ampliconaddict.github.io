@@ -1,0 +1,42 @@
+---
+title: "Contact"
+page-layout: full
+toc: false
+---
+
+# 
+
+## Email
+
+:::: {.columns}
+
+::: {.column}
+
+### Primary
+
+📧 <a href="mailto:cheshtaawork@gmail.com">cheshtaawork@gmail.com</a>
+
+:::
+
+::: {.column}
+
+### University of Agder (UiA)
+
+📧 <a href="mailto:cheshtaac@uia.no">cheshtaac@uia.no</a>
+
+:::
+
+::::
+
+---
+
+
+## Connect with me
+
+💼 **LinkedIn**
+
+[View my LinkedIn profile →](https://www.linkedin.com/in/cheshtaa-chitkara-phd-4b628712a/){target="_blank"}
+
+---
+
+> *I aim to respond to emails within the same working day.*

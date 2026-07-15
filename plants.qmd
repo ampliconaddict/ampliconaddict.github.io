@@ -1,0 +1,62 @@
+---
+title: "Sustainable Agriculture"
+page-layout: full
+toc: true
+---
+
+#
+
+---
+
+# Overview
+
+As a Postdoctoral Researcher at the University of Mississippi (since July 2026), my research focuses on understanding how microbial communities generated through fermentation-based biofertilisers influence crop health, productivity, and resilience. By combining microbial ecology, molecular biology, and controlled greenhouse experiments, I investigate how beneficial microorganisms can enhance sustainable agricultural practices and improve plant performance.
+
+---
+
+## Research Questions
+
+- How do fermentation-derived microbial biofertilisers influence plant growth, health and productivity?
+- Which microbial taxa and functional traits promote resilient plant–microbiome interactions under different biofertiliser and substrate type?
+- How do these microbes break into the mineral matrix to release these useful elements needed for plant growth and development?
+
+---
+
+# Current Project
+
+## Deciphering Plant–Microbiome Interactions
+
+My current research will investigate how microbial biofertilisers influence crop performance and soil microbial communities under uncontrolled experimental conditions in the field. Complementary greenhouse experiments will also be done later to investigate similar effects under controlled conditions.
+
+By integrating experimental biology with plant performance measurements with molecular sequencing and microbial community analyses, this research aims to identify how beneficial microorganisms contribute to sustainable agricultural production and improved crop resilience.
+
+Fieldwork for this project will be carried out in Hawai'i and last until March/April next year. Stay tuned in this space to know more!
+
+---
+
+# Methods
+
+- Field experiments
+- Microbe-mineral weathering
+- Bioweathering
+- Amplicon sequencing
+- Oxford Nanopore sequencing
+- Microbial community analyses
+- Bioinformatics
+- Statistical modelling
+
+---
+
+# Gallery
+
+Stay tuned for fieldwork photographs!
+
+---
+
+# Skills
+
+- Molecular ecology
+- Experimental biology
+- Environmental sequencing
+- Bioinformatics
+- R & HPC
