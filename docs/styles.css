@@ -623,3 +623,26 @@ opacity:0;
 }
 
 }
+/* ==========================
+NEWS PHOTOS
+========================== */
+
+.news-photo{
+
+width:100%;
+
+height:auto;
+
+max-height:500px;
+
+object-fit:contain;
+
+border-radius:18px;
+
+box-shadow:0 10px 25px rgba(0,0,0,.15);
+
+display:block;
+
+margin:auto;
+
+}

@@ -26,6 +26,15 @@ toc: false
 
 :::
 
+::: {.column}
+
+### University of Mississippi (UM)
+
+📧 <a href="mailto:cchitkar@olemiss.edu">cchitkar@olemiss.edu</a>
+
+:::
+
+
 ::::
 
 ---
